@@ -1,0 +1,11 @@
+. script that takes a ts file and makes it source, eg 'untranslated'
+
+. script that takes a ts file and removes obsolte trads
+
+. script that takes a source and a target ts files and adds all missing trad sources in the target
+
+. script that takes a source and a target ts files and removes all extra trad sources in the target
+
+. script that lists duplicate trad sources in different context
+
+. scripts that extract db trads to ts files and script that imports them
