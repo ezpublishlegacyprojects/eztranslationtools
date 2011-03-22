@@ -8,4 +8,4 @@
 
 . script that lists duplicate trad sources in different context
 
-. scripts that extract db trads to ts files and script that imports them
+. scripts that extract db trads to ts files and script that imports them (see code in http://projects.ez.no/adminaid)
